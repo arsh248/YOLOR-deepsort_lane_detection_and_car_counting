@@ -28,3 +28,20 @@ This project combines YOLO object detection with lane detection to count cars an
 - --lane_cfg: Path to lane detection configuration file.
 - --view-img: Flag to display the output images with detections.
 
+
+# 1) Select the area
+![WhatsApp Image 2024-06-06 at 4 04 11 PM](https://github.com/arsh248/YOLOR-deepsort_lane_detection_and_car_counting/assets/62460837/eb931370-4582-4adb-95bc-16f10be0cc65)
+
+# 2) Edge detection
+
+![WhatsApp Image 2024-06-06 at 4 03 49 PM](https://github.com/arsh248/YOLOR-deepsort_lane_detection_and_car_counting/assets/62460837/8d8ee02e-b9f2-4a89-b91b-f13892738fe3)
+
+![WhatsApp Image 2024-06-06 at 4 03 50 PM](https://github.com/arsh248/YOLOR-deepsort_lane_detection_and_car_counting/assets/62460837/d956fbe3-55cf-41ff-82ed-79df0a309733)
+
+![WhatsApp Image 2024-06-06 at 4 03 49 PM-2](https://github.com/arsh248/YOLOR-deepsort_lane_detection_and_car_counting/assets/62460837/cb4de06b-e536-4729-9fc6-2c95cc0c3591)
+
+
+# 3) Final output
+![WhatsApp Image 2024-06-06 at 4 04 11 PM-2](https://github.com/arsh248/YOLOR-deepsort_lane_detection_and_car_counting/assets/62460837/4b408833-803b-4e5f-ae03-0b5129241c36)
+
+
